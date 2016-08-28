@@ -19,8 +19,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="adt_main" target="1.8" />
-      <module name="adt_test" target="1.8" />
+      <module name="shared_main" target="1.8" />
+      <module name="shared_test" target="1.8" />
       <module name="pipeline_main" target="1.8" />
       <module name="pipeline_test" target="1.8" />
     </bytecodeTargetLevel>

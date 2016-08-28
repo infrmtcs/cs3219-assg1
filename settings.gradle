@@ -1,3 +1,6 @@
 rootProject.name = 'cs3219-assg1'
 include 'pipeline'
-include 'adt'
+include 'shared'
+include 'main:shared'
+findProject(':main:shared')?.name = 'shared'
+

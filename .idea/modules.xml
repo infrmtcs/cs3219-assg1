@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adt/adt.iml" filepath="$PROJECT_DIR$/.idea/modules/adt/adt.iml" group="adt" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adt/adt_main.iml" filepath="$PROJECT_DIR$/.idea/modules/adt/adt_main.iml" group="adt" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adt/adt_test.iml" filepath="$PROJECT_DIR$/.idea/modules/adt/adt_test.iml" group="adt" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cs3219-assg1.iml" filepath="$PROJECT_DIR$/.idea/modules/cs3219-assg1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pipeline/pipeline.iml" filepath="$PROJECT_DIR$/.idea/modules/pipeline/pipeline.iml" group="pipeline" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pipeline/pipeline_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pipeline/pipeline_main.iml" group="pipeline" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pipeline/pipeline_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pipeline/pipeline_test.iml" group="pipeline" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/shared.iml" group="shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/shared_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/shared_main.iml" group="shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/shared_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/shared_test.iml" group="shared" />
     </modules>
   </component>
 </project>

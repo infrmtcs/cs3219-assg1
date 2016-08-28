@@ -22,6 +22,7 @@ public class Output {
                 }
             }
             lines.forEach(writer::println);
+            writer.close();
             return null;
         };
     }
