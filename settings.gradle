@@ -1,2 +1,3 @@
 rootProject.name = 'cs3219-assg1'
-
+include 'pipeline'
+include 'adt'
